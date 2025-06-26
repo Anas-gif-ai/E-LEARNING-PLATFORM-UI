@@ -3,7 +3,7 @@ const courses = [
     id: "course1",
     title: "JavaScript Essentials",
     description: "Master JavaScript fundamentals and syntax.",
-    video: "https://www.youtube.com/embed/W6NZfCO5SIk",
+    video:  "https://www.youtube.com/embed/W6NZfCO5SIk",
   },
     
   
